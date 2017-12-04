@@ -1,0 +1,15 @@
+{
+  "name": "node-deployment",
+  "version": "1.0.0",
+  "description": "A nodeJS solution using Node clusters and Master-worker configuration to enable zero down time deployments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Deployments"
+  ],
+  "author": "Raghav Grover <raghavgrover43@gmail.com>",
+  "license": "ISC"
+}
