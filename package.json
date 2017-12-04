@@ -8,8 +8,13 @@
   },
   "keywords": [
     "Node",
-    "Deployments"
+    "Deployments",
+    "Down time"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raghav-grover/node-deployment"
+  },
   "author": "Raghav Grover <raghavgrover43@gmail.com>",
   "license": "ISC"
 }
